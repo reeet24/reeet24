@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reeet24
-- 👀 I’m interested in Minecraft mod development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Minecraft mod and discord bot development
+- 🌱 I’m currently learning Java and Rust
 - 💞️ I’m looking to collaborate on Anything Java Development
 - 📫 How to reach me Discord - Spooky.ico#2707
 
