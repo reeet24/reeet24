@@ -7,7 +7,7 @@ I think in terms of process isolation, versioned interfaces, and execution envir
 I believe systems should explain themselves. I build not for speed, but for structural longevity.
 
 How to reach me
--Discord - spooky.ico
+- Discord - spooky.ico
 
 <!---
 reeet24/reeet24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
